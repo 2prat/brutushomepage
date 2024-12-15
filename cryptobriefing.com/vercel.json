@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/brutus-crocodile-euthanised-in-australian-zoo",
+      "destination": "https://brutusarticle.vercel.app/"
+    }
+  ]
+}
