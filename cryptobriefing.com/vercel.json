@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/brutus-crocodile-euthanised-in-australian-zoo",
+      "source": "/parrot-stolen-for-btc-seed-phrase/",
       "destination": "https://brutusarticle.vercel.app/"
     }
   ]
